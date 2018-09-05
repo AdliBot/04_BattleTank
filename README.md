@@ -5,3 +5,7 @@ An open world head-to-tank fight with simple AI, terrain and advanced control sy
 * BT01 Intro, Notes & Assets
 * BT02 Game Design Document (GDD)
 * BT03 Setting Up a GitHub "Repo"
+* BT04 Creating & Deleting Landscapes
+* BT05 Landscape Setup & Scaling
+* BT06 Landscape Process - 1st Iteration
+* BT07 Upgrading Engine Version
