@@ -2,4 +2,5 @@
 An open world head-to-tank fight with simple AI, terrain and advanced control system in Unreal 4
 
 ## Lecture List
-- BT01 Intro, Notes & Assets
+* BT01 Intro, Notes & Assets
+* BT02 Game Design Document (GDD)
