@@ -16,3 +16,4 @@ An open world head-to-tank fight with simple AI, terrain and advanced control sy
 * BT11 Setting up Camera for 3rd Person Tank
 * BT12 UI in Unreal & Main Menu Screens
 * BT13 UI Scale Box / Buttons / Mouse & Controller Ready Navigation
+* BT14 Packaging and Fixing Controls
