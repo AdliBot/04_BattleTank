@@ -20,3 +20,4 @@ An open world head-to-tank fight with simple AI, terrain and advanced control sy
 * BT15 Delegating to Components and Using virtual and override
 * BT16 Creating an AI Controller Class and Get Player Controller with C++
 * BT17 Add Tick to PC, Create Out Param Method & Finding Screen Pixel Coords
+* BT18 Using DeprojectScreenToWorld & Using LineTraceSingleByChannel
