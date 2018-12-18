@@ -41,11 +41,8 @@ void ATankPlayerController::AimAtCrosshair()
 	FVector OutHitLocation; //out parameter
 	if (GetSighRayHitLocation(OutHitLocation))
 	{
-		UE_LOG(LogTemp, Warning, TEXT("HitLocation : %s"), *OutHitLocation.ToString());
+		GetControlledTank()->AimAt(OutHitLocation); // tell controlled tank to aim at this point
 	
-	//Get world location if line trace through crosshair
-	//if it hits landscap
-		// tell controlled tank to aim at this point
 	}
 }
 
