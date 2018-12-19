@@ -22,3 +22,4 @@ An open world head-to-tank fight with simple AI, terrain and advanced control sy
 * BT17 Add Tick to PC, Create Out Param Method & Finding Screen Pixel Coords
 * BT18 Using DeprojectScreenToWorld & Using LineTraceSingleByChannel
 * BT19 Unify Player & AI Aiming
+* BT20 Mid Section Quiz & Creating Default Sub Objects in C++
