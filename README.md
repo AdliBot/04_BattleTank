@@ -23,3 +23,4 @@ An open world head-to-tank fight with simple AI, terrain and advanced control sy
 * BT18 Using DeprojectScreenToWorld & Using LineTraceSingleByChannel
 * BT19 Unify Player & AI Aiming
 * BT20 Mid Section Quiz & Creating Default Sub Objects in C++
+* BT21 Learning BlueprintCallable()
