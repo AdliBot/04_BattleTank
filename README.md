@@ -24,3 +24,4 @@ An open world head-to-tank fight with simple AI, terrain and advanced control sy
 * BT19 Unify Player & AI Aiming
 * BT20 Mid Section Quiz & Creating Default Sub Objects in C++
 * BT21 Learning BlueprintCallable()
+* BT22 Implemented Firing Speed variable window & Intro to SuggestProjectileVelocity()
