@@ -26,3 +26,4 @@ An open world head-to-tank fight with simple AI, terrain and advanced control sy
 * BT21 Learning BlueprintCallable()
 * BT22 Implemented Firing Speed variable window & Intro to SuggestProjectileVelocity()
 * BT23 Predict Projectile Landing Point & Using FRotators in Unreal
+* BT24 Compilers, Objects, Linkers and Forward Declarations
