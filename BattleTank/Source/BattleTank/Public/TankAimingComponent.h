@@ -7,7 +7,8 @@
 #include "ControlPointMeshComponent.h"
 #include "TankAimingComponent.generated.h"
 
-class UTankBarrel;
+class UTankBarrel; 
+// Holds barrel properties and Elevate Method
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class BATTLETANK_API UTankAimingComponent : public UActorComponent
