@@ -1,7 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "TankBarrel.h"
 #include "TankAimingComponent.h"
+#include "TankTurret.h"
+#include "TankBarrel.h"
 #include "BattleTank.h"
 #include "ControlPointMeshComponent.h"
 #include "Engine/World.h"
@@ -79,5 +80,12 @@ void UTankAimingComponent::MoveBarrelTowards(FVector AimDirection)
 
 void UTankAimingComponent::SetBarrelReference(UTankBarrel* BarrelToSet)
 {
+	if (!BarrelToSet) { return; }
 	Barrel = BarrelToSet;
+}
+
+void UTankAimingComponent::SetTurretReference(UTankTurret* TurretToSet)
+{
+	if (!TurretToSet) { return; }
+	Turret = TurretToSet;
 }
