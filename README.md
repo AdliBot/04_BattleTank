@@ -28,3 +28,4 @@ An open world head-to-tank fight with simple AI, terrain and advanced control sy
 * BT23 Predict Projectile Landing Point & Using FRotators in Unreal
 * BT24 Compilers, Objects, Linkers and Forward Declarations
 * BT25 BluePrintSpawnableComponent(), Reviewing Execution Flow, How to report bugs, Mid Section Quiz!
+* BT26 Using FMath::Clamp();
