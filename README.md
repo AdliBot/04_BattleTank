@@ -30,3 +30,4 @@ An open world head-to-tank fight with simple AI, terrain and advanced control sy
 * BT25 BluePrintSpawnableComponent(), Reviewing Execution Flow, How to report bugs, Mid Section Quiz!
 * BT26 Using FMath::Clamp();
 * BT27 Setting up TankTurret Class Challenge
+* BT28 TankTurret Challenge Pt. 2, Setup fire () method + linking and creating Projectile C++/BP
