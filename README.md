@@ -31,3 +31,4 @@ An open world head-to-tank fight with simple AI, terrain and advanced control sy
 * BT26 Using FMath::Clamp();
 * BT27 Setting up TankTurret Class Challenge
 * BT28 TankTurret Challenge Pt. 2, Setup fire () method + linking and creating Projectile C++/BP
+* BT29 Updating Unreal Engine and learning how to use SpawnActor<>();
