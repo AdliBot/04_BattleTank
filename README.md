@@ -34,3 +34,4 @@ An open world head-to-tank fight with simple AI, terrain and advanced control sy
 * BT29 Updating Unreal Engine and learning how to use SpawnActor<>();
 * BT30 Adding Projectile Movement Component in the Projectile BP and Making AI Tanks Fire (Also, fixed my jittering tank bug issue)
 * BT31 Changed EditAnywhere to EditDefaultsOnly and Mid Section Quiz!
+* BT32 Added quit button & Setup Track Throttle
