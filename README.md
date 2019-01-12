@@ -36,3 +36,4 @@ An open world head-to-tank fight with simple AI, terrain and advanced control sy
 * BT31 Changed EditAnywhere to EditDefaultsOnly and Mid Section Quiz!
 * BT32 Added quit button & Setup Track Throttle
 * BT33 AddForceLocation() & Adding Physical Material and Setting Friction
+* BT34 Fly By Wire Control lecture & Using BlueprintReadOnly on TankMovementComponent
